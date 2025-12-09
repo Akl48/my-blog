@@ -1,0 +1,25 @@
+/* 自定义样式 */
+
+:root {
+  --vp-c-primary: #667eea;
+  --vp-c-primary-dark: #764ba2;
+}
+
+/* 容器背景色 */
+.vp-doc :not(pre) > code {
+  background: #f6f8fa;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+/* 链接样式 */
+.vp-doc a {
+  color: #667eea;
+  text-decoration: none;
+  border-bottom: 1px dotted #667eea;
+}
+
+.vp-doc a:hover {
+  color: #764ba2;
+  border-bottom-color: #764ba2;
+}

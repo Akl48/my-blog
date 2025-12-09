@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vitepress dev",
+    "dev:local": "vitepress dev --config .vitepress/config.dev.mts",
     "build": "vitepress build",
     "preview": "vitepress preview"
   },

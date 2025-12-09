@@ -24,7 +24,8 @@ export default defineConfig({
           text: '博客文章',
           items: [
             { text: '我的第一篇博客', link: '/posts/first-post' },
-            { text: 'VitePress 使用指南', link: '/posts/vitepress-guide' }
+            { text: 'VitePress 使用指南', link: '/posts/vitepress-guide' },
+            { text: 'Vue 组件示例', link: '/posts/vue-components' }
           ]
         }
       ]

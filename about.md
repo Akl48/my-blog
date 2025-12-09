@@ -2,28 +2,24 @@
 
 ## 👋 欢迎
 
-你好！欢迎来到我的个人博客。
+👏欢迎来到我的个人博客。
 
 ## 💼 个人介绍
 
-这里可以写你的个人介绍，包括：
-- 职业背景
-- 技术栈
-- 兴趣爱好
-- 联系方式
+我是Akl48，主业是一名iOS的开发工程师，副业还在探索中。也曾就职于北京的字节跳动，如今回到了武汉二线，正开启一段新的生活。
 
 ## 🎯 博客目标
 
 通过这个博客，我希望：
 - 分享技术知识和经验
-- 记录学习成长过程
+- 督促自己持续输入和输出
 - 与志同道合的朋友交流
+- 记录一下我的日常生活
 
 ## 📫 联系方式
 
-- GitHub: [你的 GitHub](https://github.com/yourusername)
-- Email: your.email@example.com
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- GitHub: [Akl48](https://github.com/Akl48)
+- Email: z1057075812@outlook.com
 
 ---
 
