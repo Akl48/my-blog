@@ -31,7 +31,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/你的用户名/my-blog' }
+      { icon: 'github', link: 'https://github.com/Akl48/my-blog' }
     ],
 
     footer: {
@@ -46,7 +46,7 @@ export default defineConfig({
 
     // 编辑链接
     editLink: {
-      pattern: 'https://github.com/yourusername/your-repo/edit/main/:path',
+      pattern: 'https://github.com/Akl48/my-blog/edit/main/:path',
       text: '在 GitHub 上编辑此页'
     },
 
