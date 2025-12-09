@@ -8,7 +8,7 @@ export default defineConfig({
   // GitHub Pages 部署配置
   // 如果部署到 https://<USERNAME>.github.io/ 则 base 为 '/'
   // 如果部署到 https://<USERNAME>.github.io/<REPO>/ 则 base 为 '/<REPO>/'
-  base: '/',
+  base: '/my-blog/',
   
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -31,7 +31,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/yourusername/your-repo' }
+      { icon: 'github', link: 'https://github.com/你的用户名/my-blog' }
     ],
 
     footer: {
