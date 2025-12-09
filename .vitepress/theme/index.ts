@@ -4,7 +4,6 @@ import FeatureCard from '../components/FeatureCard.vue'
 import GridContainer from '../components/GridContainer.vue'
 import Timeline from '../components/Timeline.vue'
 import ButtonGroup from '../components/ButtonGroup.vue'
-import './custom.css'
 
 export default {
   extends: Theme,
