@@ -1,0 +1,22 @@
+{
+  "name": "my-vitepress-blog",
+  "version": "1.0.0",
+  "description": "My personal blog built with VitePress",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0",
+    "vue": "^3.4.0"
+  },
+  "keywords": [
+    "blog",
+    "vitepress",
+    "vue"
+  ],
+  "author": "",
+  "license": "MIT"
+}
